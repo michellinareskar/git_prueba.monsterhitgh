@@ -1,0 +1,25 @@
+#tarjeta{
+    border: 50px solid;
+    background-color:blueviolet;
+    margin: 100px;
+    width: 20%;
+    padding: 20px;
+    
+}
+img{
+    width: 100%;}
+
+body{
+    background-image:url(https://i.pinimg.com/736x/40/fd/93/40fd931ce6182a6fad02b8f62866c989.jpg);}
+h1 {
+    background-color: fuchsia;
+}
+h2{
+    background-color: whitesmoke;
+}
+main{
+    width: 100%;
+    display: flex;
+    
+
+}
